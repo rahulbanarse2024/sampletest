@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_State  County</name>
+   <tag></tag>
+   <elementGuidId>2df7b0c9-b0cb-4634-8841-c0a3cee37e38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='billing_state_field']/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#billing_state_field > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#billing_state_field >> internal:text=&quot;State / County *&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>9875a519-4ddd-45ee-9a96-8075ccfd341f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>billing_state</value>
+      <webElementGuid>0630e4ab-e66e-4623-8e08-b587f5d80ab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>State / County *</value>
+      <webElementGuid>c89e2c8c-7262-4c4c-a1db-27468bdee74a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;billing_state_field&quot;)/label[1]</value>
+      <webElementGuid>1e254574-7b83-4883-a2b2-413cea053fc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@id='billing_state_field']/label</value>
+      <webElementGuid>a86eebf4-2a6a-4689-9b0b-2e180eb8ae2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::label[1]</value>
+      <webElementGuid>6881aeb6-9d59-4057-90ba-cd1090e71074</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select an option…'])[2]/preceding::label[1]</value>
+      <webElementGuid>9bf92fb9-51e1-4dbd-9ff8-f02e3f221464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='State / County']/parent::*</value>
+      <webElementGuid>08f2fb2a-3046-4eb8-8259-e0c55ab6fc0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[8]/label</value>
+      <webElementGuid>1d9327f3-ea13-4d0c-b589-5c20fac8103d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'State / County *' or . = 'State / County *')]</value>
+      <webElementGuid>792689c8-fd8f-481b-b640-22ddafbb9848</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
